@@ -7,6 +7,5 @@ So we can use not only a header tag, but some other features:
 * or event emojies  :four_leaf_clover:
 
 ## I wish you to have a good time
-These courses is going to be great and very helpful.
-
-Have a good day!
+These courses are going to be great and very helpful.
+Have a nice day!
